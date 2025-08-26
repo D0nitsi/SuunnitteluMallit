@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignment 01 Factory method/Assignment 01 Factory method.iml" filepath="$PROJECT_DIR$/Assignment 01 Factory method/Assignment 01 Factory method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 02 Abstract Factory/Assignment 02 Abstract Factory.iml" filepath="$PROJECT_DIR$/Assignment 02 Abstract Factory/Assignment 02 Abstract Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuunnitteluMallit.iml" filepath="$PROJECT_DIR$/SuunnitteluMallit.iml" />
     </modules>
   </component>
