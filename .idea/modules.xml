@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/Assignment 04 Observer/Assignment 04 Observer.iml" filepath="$PROJECT_DIR$/Assignment 04 Observer/Assignment 04 Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 05 Singleton/Assignment 05 Singleton.iml" filepath="$PROJECT_DIR$/Assignment 05 Singleton/Assignment 05 Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 06 Decorator/Assignment 06 Decorator.iml" filepath="$PROJECT_DIR$/Assignment 06 Decorator/Assignment 06 Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 07 State/Assignment 07 State.iml" filepath="$PROJECT_DIR$/Assignment 07 State/Assignment 07 State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 08 Template Method/Assignment 08 Template Method.iml" filepath="$PROJECT_DIR$/Assignment 08 Template Method/Assignment 08 Template Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 09 Strategy/Assignment 09 Strategy.iml" filepath="$PROJECT_DIR$/Assignment 09 Strategy/Assignment 09 Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 10 Chain of Responsibility/Assignment 10 Chain of Responsibility.iml" filepath="$PROJECT_DIR$/Assignment 10 Chain of Responsibility/Assignment 10 Chain of Responsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuunnitteluMallit.iml" filepath="$PROJECT_DIR$/SuunnitteluMallit.iml" />
     </modules>
   </component>
