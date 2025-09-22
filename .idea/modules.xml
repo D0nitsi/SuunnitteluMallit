@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/Assignment 08 Template Method/Assignment 08 Template Method.iml" filepath="$PROJECT_DIR$/Assignment 08 Template Method/Assignment 08 Template Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 09 Strategy/Assignment 09 Strategy.iml" filepath="$PROJECT_DIR$/Assignment 09 Strategy/Assignment 09 Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 10 Chain of Responsibility/Assignment 10 Chain of Responsibility.iml" filepath="$PROJECT_DIR$/Assignment 10 Chain of Responsibility/Assignment 10 Chain of Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 11 Memento/Assignment 11 Memento.iml" filepath="$PROJECT_DIR$/Assignment 11 Memento/Assignment 11 Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 12 Proxy/Assignment 12 Proxy.iml" filepath="$PROJECT_DIR$/Assignment 12 Proxy/Assignment 12 Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 13 Visitor/Assignment 13 Visitor.iml" filepath="$PROJECT_DIR$/Assignment 13 Visitor/Assignment 13 Visitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuunnitteluMallit.iml" filepath="$PROJECT_DIR$/SuunnitteluMallit.iml" />
     </modules>
   </component>
