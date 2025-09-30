@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/Assignment 13 Visitor/Assignment 13 Visitor.iml" filepath="$PROJECT_DIR$/Assignment 13 Visitor/Assignment 13 Visitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 14 Builder/Assignment 14 Builder.iml" filepath="$PROJECT_DIR$/Assignment 14 Builder/Assignment 14 Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 15 Adapter/Assignment 15 Adapter.iml" filepath="$PROJECT_DIR$/Assignment 15 Adapter/Assignment 15 Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 16 Bridge/Assignment 16 Bridge.iml" filepath="$PROJECT_DIR$/Assignment 16 Bridge/Assignment 16 Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 17 Flyweight/Assignment 17 Flyweight.iml" filepath="$PROJECT_DIR$/Assignment 17 Flyweight/Assignment 17 Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 18 Prototype/Assignment 18 Prototype.iml" filepath="$PROJECT_DIR$/Assignment 18 Prototype/Assignment 18 Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuunnitteluMallit.iml" filepath="$PROJECT_DIR$/SuunnitteluMallit.iml" />
     </modules>
   </component>
